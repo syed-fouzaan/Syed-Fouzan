@@ -1,17 +1,4 @@
-## Hi, I’m Syed Fouzan 👋
-🚀 Passionate AI/ML Engineering Student.<br/>
-🖥️ Experienced in real-time vision-based systems & predictive analytics with SQL.<br/>
-⚡ Skilled in optimizing ML pipelines and deploying Python-powered solutions.<br/>
-🤖 Proven results in gesture recognition & healthcare data modeling.<br/>
-🌱 Exploring computer vision, deep learning, and AI in healthcare.<br/>
-📊 Strong in ML, data preprocessing, and model deployment.<br/>
-💡 Open to impactful AI/ML projects & open-source collaboration.<br/>
-🛰️ Connect with me through LinkedIn [LinkedIn Profile](www.linkedin.com/in/syed-fouzaan-404461283)
-
-
-
-
-# 💫 About Me:
+## 💫 About Me:
 Hi, I’m Syed Fouzan 👋<br>🚀 Passionate AI/ML Engineering Student.<br/><br>🖥️ Experienced in real-time vision-based systems & predictive analytics with SQL.<br/><br>⚡ Skilled in optimizing ML pipelines and deploying Python-powered solutions.<br/><br>🤖 Proven results in gesture recognition & healthcare data modeling.<br/><br>🌱 Exploring computer vision, deep learning, and AI in healthcare.<br/><br>📊 Strong in ML, data preprocessing, and model deployment.<br/><br>💡 Open to impactful AI/ML projects & open-source collaboration.<br/><br>🛰️ Connect with me through LinkedIn [LinkedIn Profile](www.linkedin.com/in/syed-fouzaan-404461283)
 
 
